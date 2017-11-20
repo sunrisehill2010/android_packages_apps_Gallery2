@@ -459,15 +459,15 @@
   <!-- alert to the user to wait for some operation to complete -->
   <string name="wait">Waart w.e.g.\u2026</string>
   <!-- alert to the user that USB storage must be available before using the camera [CHAR LIMIT=NONE] -->
-  <string name="no_storage" product="nosdcard">Bann den USB-Späicher an ier s de d\'Kamera benotz.</string>
+  <!--<string name="no_storage" product="nosdcard">Bann den USB-Späicher an ier s de d\'Kamera benotz.</string>-->
   <!-- alert to the user that an SD card must be installed before using the camera -->
   <string name="no_storage" product="default">Maach eng SD-Kaart dran ier s du d\'Kamera benotzt.</string>
   <!-- alert to the user that the USB storage is being disk-checked [CHAR LIMIT=30] -->
-  <string name="preparing_sd" product="nosdcard">USB-Späicher gëtt preparéiert\u2026</string>
+  <!--<string name="preparing_sd" product="nosdcard">USB-Späicher gëtt preparéiert\u2026</string>-->
   <!-- alert to the user that the SD card is being disk-checked -->
   <string name="preparing_sd" product="default">SD-Kaart gëtt preparéiert\u2026</string>
   <!-- alert to the user that the camera fails to read or write the USB storage. [CHAR LIMIT=NONE] -->
-  <string name="access_sd_fail" product="nosdcard">Keen Zougrëff op den USB-Späicher méiglech.</string>
+  <!--<string name="access_sd_fail" product="nosdcard">Keen Zougrëff op den USB-Späicher méiglech.</string>-->
   <!-- alert to the user that the camera fails to read or write the SD card. -->
   <string name="access_sd_fail" product="default">Keen Zougrëff op d\'SD-Kaart méiglech.</string>
   <!-- button in review mode indicating that the photo taking, video recording, and panorama saving session should be canceled [CHAR LIMIT=10] -->
@@ -639,7 +639,7 @@
   <!-- Dialog "OK" button. Dismisses dialog. -->
   <string name="dialog_ok">OK</string>
   <!-- Low-memory dialog message [CHAR LIMT=NONE] -->
-  <string name="spaceIsLow_content" product="nosdcard">Däin USB-Späicher huet geschwë keng Plaz méi. Änner d\'Qualitéitsastellungen oder läsch e puer Fotoen oder aner Fichieren.</string>
+  <!--<string name="spaceIsLow_content" product="nosdcard">Däin USB-Späicher huet geschwë keng Plaz méi. Änner d\'Qualitéitsastellungen oder läsch e puer Fotoen oder aner Fichieren.</string>-->
   <!-- Low-memory dialog message [CHAR LIMIT=NONE] -->
   <string name="spaceIsLow_content" product="default">Deng SD-Kaart huet geschwë keng Plaz méi. Änner d\'Qualitéitsastellungen oder läsch e puer Fotoen oder Fichieren.</string>
   <!-- Camera format string for new image files. Passed to java.text.SimpleDateFormat. -->

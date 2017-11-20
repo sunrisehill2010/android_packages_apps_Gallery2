@@ -445,15 +445,15 @@
   <!-- alert to the user to wait for some operation to complete -->
   <string name="wait">سەل كۈتۈڭ…</string>
   <!-- alert to the user that USB storage must be available before using the camera [CHAR LIMIT=NONE] -->
-  <string name="no_storage" product="nosdcard">كامېرانى ئىشلىتىشتىن ئىلگىرى USB ساقلىغۇچنى ئېگەرلەڭ.</string>
+  <!--<string name="no_storage" product="nosdcard">كامېرانى ئىشلىتىشتىن ئىلگىرى USB ساقلىغۇچنى ئېگەرلەڭ.</string>-->
   <!-- alert to the user that an SD card must be installed before using the camera -->
   <string name="no_storage" product="default">كامېرا ئىشلىتىشتىن ئىلگىرى SD كارتا قىستۇرۇڭ.</string>
   <!-- alert to the user that the USB storage is being disk-checked [CHAR LIMIT=30] -->
-  <string name="preparing_sd" product="nosdcard">USB ساقلىغۇچنى تەييارلاۋاتىدۇ…</string>
+  <!--<string name="preparing_sd" product="nosdcard">USB ساقلىغۇچنى تەييارلاۋاتىدۇ…</string>-->
   <!-- alert to the user that the SD card is being disk-checked -->
   <string name="preparing_sd" product="default">SD كارتا تەييارلاۋاتىدۇ…</string>
   <!-- alert to the user that the camera fails to read or write the USB storage. [CHAR LIMIT=NONE] -->
-  <string name="access_sd_fail" product="nosdcard">USB ساقلىغۇچنى زىيارەت قىلالمايدۇ.</string>
+  <!--<string name="access_sd_fail" product="nosdcard">USB ساقلىغۇچنى زىيارەت قىلالمايدۇ.</string>-->
   <!-- alert to the user that the camera fails to read or write the SD card. -->
   <string name="access_sd_fail" product="default">SD كارتىنى زىيارەت قىلالمايدۇ.</string>
   <!-- button in review mode indicating that the photo taking, video recording, and panorama saving session should be canceled [CHAR LIMIT=10] -->
@@ -618,7 +618,7 @@
   <!-- Dialog "OK" button. Dismisses dialog. -->
   <string name="dialog_ok">جەزملە</string>
   <!-- Low-memory dialog message [CHAR LIMT=NONE] -->
-  <string name="spaceIsLow_content" product="nosdcard">USB ساقلىغۇچ بوشلۇقىڭىز توشاي دېدى. سۈپەت تەڭشەكنى ئۆزگەرتىڭ ياكى بەزى سۈرەتلەرنى ياكى باشقا ھۆججەتلەرنى ئۆچۈرۈڭ.</string>
+  <!--<string name="spaceIsLow_content" product="nosdcard">USB ساقلىغۇچ بوشلۇقىڭىز توشاي دېدى. سۈپەت تەڭشەكنى ئۆزگەرتىڭ ياكى بەزى سۈرەتلەرنى ياكى باشقا ھۆججەتلەرنى ئۆچۈرۈڭ.</string>-->
   <!-- Low-memory dialog message [CHAR LIMIT=NONE] -->
   <string name="spaceIsLow_content" product="default">SD كارتا بوشلۇقىڭىز توشاي دېدى. سۈپەت تەڭشەكنى ئۆزگەرتىڭ ياكى بەزى سۈرەتلەرنى ياكى باشقا ھۆججەتلەرنى ئۆچۈرۈڭ.</string>
   <!-- Camera format string for new image files. Passed to java.text.SimpleDateFormat. -->

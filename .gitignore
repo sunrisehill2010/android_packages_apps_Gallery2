@@ -6,6 +6,8 @@
 .settings/
 bin/
 libs/
+build/
 gen/
 .idea/
 project.properties
+local.properties
